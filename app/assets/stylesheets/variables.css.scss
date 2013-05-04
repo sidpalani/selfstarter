@@ -4,7 +4,7 @@
 
 // If you have any questions, create a GitHub issue, or email me us -- hello@lockitron.com
 
-$body_background: #E6E6E6;
+$body_background: #C482ED;
 
 // Right now, we don't really use h1 and h2's correctly.
 // We'll fix it soon!
@@ -25,16 +25,16 @@ $secondary_font: "Helvetica";
 $tertiary_font:  "Arial";
 
 // Gray background is a gradient -- top == 0%, middle == 50%, bottom == 100%
-$gray_background_top_color: 	 #F6F6F6;
+$gray_background_top_color: 	#C482ED;
 $gray_background_middle_color: #FAFAFA;
-$gray_background_bottom_color: #FAFAFA;
+$gray_background_bottom_color: #FA020F;
 
 // The bottom border on the gray backgrounds
 $gray_background_border_color: #C4C4C4;
 
 // Button colors/background/border
 $button_color: 								 white;
-$button_hovered_color: 				 #0088d6;
+$button_hovered_color: 				 #FF030F;
 $button_active_background: 		 #FAFAFA;
 $button_active_border: 				 #C8C8C8;
 
